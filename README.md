@@ -46,8 +46,3 @@ This project focuses on building an image recognition system using Deep Learning
 - src/: Modular Python scripts
 - outputs/: Saved models and plots
 
-## 📊 Results
-- Achieved XX% accuracy (update this)
-- Reduced overfitting using regularization techniques
-
-
